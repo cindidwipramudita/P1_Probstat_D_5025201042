@@ -1,1 +1,3 @@
-# P1_Probstat_D_5025201042
+# Nama  : Cindi Dwi Pramudita 
+# NRP   : 5025201042
+# Kelas : Probstat D
